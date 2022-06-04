@@ -1,1 +1,1 @@
-# my-blog
+# This is my blog to learn about Jekyll.
